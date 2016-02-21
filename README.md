@@ -5,14 +5,14 @@ Simple • Static • Blog-aware
 by Tom Preston-Werner, Nick Quaranto, Parker Moore, et al
 
 
-**Note:** The book edition is still an early release and a work-in-progess.
+> **Note:** The book edition is still an early release and a work-in-progess.
 
 
 This is the [(official) documentation](https://github.com/jekyll/jekyll/tree/master/site/_docs)
 for the Jekyll static site builder / generator
 reformatted in a single-page book edition.
 
-See the [source repo](https://github.com/planetjekyll/book-jekyll)for how
+See the [source repo](https://github.com/planetjekyll/book-jekyll) for how
 the book gets auto-built with "plain" Jekyll - of course - and hosted on GitHub Pages.
 
 
