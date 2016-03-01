@@ -16,47 +16,19 @@ See the [source repo](https://github.com/hydepress/hydepress.github.io) for how
 the book gets auto-built with "plain" Jekyll - of course - and hosted on GitHub Pages.
 
 
+## Sources
 
-### Questions? Comments?
+See the official documentation...  to be done
+
+
+## Questions? Comments?
 
 Send them to the Jekyll Talk forum post titled
 [Jekyll Docu Reformatted as a Single-Page in Black 'n' White (Book Version) - Why? Why Not?](https://talk.jekyllrb.com/t/jekyll-docu-reformatted-as-a-single-page-in-black-n-white-book-version-why-why-not/1908).
 Thanks.
 
 
-### Build Notes
-
-For local build use the github-pages gem with bundler:
-
-    $ bundle exec jekyll build --safe  # or
-    $ bundle exec jekyll b --safe
-   
-
-#### Git Submodules
-
-To add use:
-
-    $ git submodule add https://github.com/hydepress/jekyll _jekyll
-
-To check try:
-
-    $ cat .gitmodules
-   
-Printing something like:
-
-    [submodule "_jekyll"]
-        path = _jekyll
-        url = https://github.com/hydepress/jekyll
-
-
-Todo: Add/use  --name jekyll option to keep original name - why? why not?
-
-Update Submodule.  Follow these steps:
-
-to be done
-
-
-### Todos
+## Todos
 
 - Add preface to manuscript ??
 - Move available plugins to appendix ??
